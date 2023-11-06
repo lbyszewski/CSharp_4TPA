@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\4TPA\4TPA\bin\Debug\4TPA.exe.config
+C:\Users\admin\source\repos\4TPA\4TPA\bin\Debug\4TPA.exe
+C:\Users\admin\source\repos\4TPA\4TPA\bin\Debug\4TPA.pdb
+C:\Users\admin\source\repos\4TPA\4TPA\obj\Debug\4TPA.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\4TPA\4TPA\obj\Debug\4TPA.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\4TPA\4TPA\obj\Debug\4TPA.exe
+C:\Users\admin\source\repos\4TPA\4TPA\obj\Debug\4TPA.pdb
